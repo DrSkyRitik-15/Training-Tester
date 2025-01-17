@@ -26,7 +26,7 @@ The project includes the following test areas:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/website-testing.git
-   cd website-testing
+   git clone https://github.com/DrSkyRitik-15/Training-Tester
+   
 🙌 Acknowledgments
 This testing project is part of a training exercise to enhance skills in website testing. Special thanks to https://qa-practice.netlify.app for providing a practice platform.
